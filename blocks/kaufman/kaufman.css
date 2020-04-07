@@ -1,3 +1,5 @@
+@import url(./__triangle/kaufman__triangle.css);
+
 .kaufman {
   background-color: #1f1f1f;
   overflow: hidden;
@@ -6,10 +8,8 @@
   flex-direction: column;
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("/images/triangle.svg");
-  background-repeat: no-repeat;
-  background-size: 877px 877px;
-  background-position: top right -210px;
+  position: relative;
+  top: -215px;
 }
 
 .kaufman > ol {
