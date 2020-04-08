@@ -12,4 +12,9 @@
 .footer__column-links a {
   text-decoration: none;
   color: inherit;
+  opacity: 1;
+  transition: opacity 250ms linear;
+}
+.footer__column-links a:hover {
+  opacity: 0.5;
 }
