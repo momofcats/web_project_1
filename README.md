@@ -1,5 +1,7 @@
 # Learning how to learn webpage
 
+[Link to a project](https://momofcats.github.io/web_project_1/)
+
 ## Description and functionality
 
 The project is a part of a Practicum curriculum that is teaching students advanced HTML and CSS. Additionally, the project is teaching implementation of the BEM convention to a project.
